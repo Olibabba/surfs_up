@@ -9,8 +9,8 @@ In preperation to open a surf supply and ice cream shop in Hawaii, an investor h
 In comparing the differences in temperature between June and December we can see a few differences
 
 <p float="left">
-  <img src="https://github.com/Olibabba/surfs_up/blob/main/resources/june_summary_stats.png" width="100" />
-  <img src="https://github.com/Olibabba/surfs_up/blob/main/resources/dec_summary_stats.png" width="100" /> 
+  <img src="https://github.com/Olibabba/surfs_up/blob/main/resources/june_summary_stats.png" width="500" />
+  <img src="https://github.com/Olibabba/surfs_up/blob/main/resources/dec_summary_stats.png" width="500" /> 
 </p>
 
 ![June Stats](https://github.com/Olibabba/surfs_up/blob/main/resources/june_summary_stats.png)
