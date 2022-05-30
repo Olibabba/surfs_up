@@ -35,7 +35,7 @@ Here I've found the average temperature and rainfall split by each station. This
 ![Stats by Station](https://github.com/Olibabba/surfs_up/blob/main/resources/stats_by_station.png)
 
 
-I've also gotten a finer detail of the temperature and rainfall by grouping each month's data by day.
+We can also get a finer detail of the temperature and rainfall by grouping each month's data by day.
 ![Stats by Day](https://github.com/Olibabba/surfs_up/blob/main/resources/stats_by_day.png)
 
 This has the benefit of being nicely visualized!
